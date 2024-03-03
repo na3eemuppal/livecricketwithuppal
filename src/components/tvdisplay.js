@@ -25,7 +25,7 @@ export default function TvDisplay() {
                  where innovation meets elegance in the world of web development! As a seasoned front-end web developer,
                   I specialize in crafting immersive digital experiences using the latest technologies.
                 </p>
-              <a href="/" className="btn btn-primary">Go somewhere</a>
+              <a href="https://www.linkedin.com/in/muhammad-naeem-60984816a/" target="_blank" className="btn btn-primary">Go somewhere</a>
             </div>
           </div>
       </div>

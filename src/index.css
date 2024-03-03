@@ -21,7 +21,24 @@ code {
   height: 100%;
   width: 100%;
 }
-
+.carousel{
+  height: calc(100vh - 100px) ;
+}
+.carousel .carousel-inner{
+  height: 100%;
+  
+}
+.carousel-inner img{
+ margin-top: -50px;
+}
+.footer-end{
+  background-color: rgb(63, 58, 55);
+  padding: 10px;
+  text-align: center;
+}
+.footer-end i{
+  font-size: 20px;
+}
 #my-footer{
   background-image: url(./components//img/footerimg1.jpg);
   color: white;

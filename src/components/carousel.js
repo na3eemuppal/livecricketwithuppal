@@ -1,5 +1,6 @@
 import React from 'react'
 import img1 from "./img/cwc23-captains-v7.png";
+import img3 from "./img/PSL9.jpg";
 import img2 from "./img/Pak-football-3-1.jpg";
 
 export default function carousel() {
@@ -10,7 +11,7 @@ export default function carousel() {
       <div className="carousel-item active">
         <img
           className="d-block w-100"
-          src={img1}
+          src={img3}
           alt="First slide"
         />
       </div>

@@ -64,6 +64,9 @@ export default function Footer() {
           </div>
         </div>
       </div>
+      <div className="footer-end">
+      <i class="fa fa-thumbs-o-up" aria-hidden="true"> Thanks for visiting to my site</i>
+      </div>
     </footer>
   )
 }

@@ -1,6 +1,6 @@
 
 import './App.css';
-
+import './components/fonts/icomoon/style.css'
 import Navbar from "./components/navbar";
 import Carousel from './components/carousel'; 
 import Display from './components/tvdisplay';
